@@ -14,3 +14,6 @@ Production: https://stormy-reef-41471.herokuapp.com/
 
 * SAPHYR TEAM
 # the_gossip_project
+
+* Heroku link : 
+https://dashboard.heroku.com/apps/thegossiplundi
