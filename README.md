@@ -17,3 +17,4 @@ Production: https://stormy-reef-41471.herokuapp.com/
 
 * Heroku link : 
 https://dashboard.heroku.com/apps/thegossiplundi
+https://thegossiplundi.herokuapp.com/
